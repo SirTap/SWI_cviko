@@ -16,6 +16,7 @@ public class JavaApplication2 {
      */
     public static void main(String[] args) {
        //toto som zmenil v github
+       //a toto je zmena s netbeans
     }
     
 }
